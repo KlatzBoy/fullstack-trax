@@ -14,3 +14,9 @@ My first time completing a Next Project, it was really interesting and I learned
 
 For all the informations check the workshop, or the initial repo at:
 https://github.com/Hendrixer/fullstack-music
+
+Deployed with vercel:
+https://fullstack-trax-9dljl2boj-klatzboy.vercel.app/signin
+
+user@test.com
+password
