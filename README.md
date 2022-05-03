@@ -10,7 +10,7 @@ The stack involved:
 - Easy-Peasy
 - Bcrypt
 
-My first time completing a Next Project, it was really interesting and I learned a lot ! Thanks Scott.
+My first time completing a Next Project and Fullstack app, it was really interesting and I learned a lot ! Thanks Scott.
 
 For all the informations check the workshop, or the initial repo at:
 https://github.com/Hendrixer/fullstack-music
